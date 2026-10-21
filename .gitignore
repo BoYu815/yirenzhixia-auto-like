@@ -1,0 +1,7 @@
+# Runtime screenshots and local files
+captures/
+*.log
+.env
+.env.*
+Thumbs.db
+Desktop.ini
